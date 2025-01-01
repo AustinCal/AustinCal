@@ -3,17 +3,20 @@
 <h2>👨‍💻 SOC Analyst Projects:</h2>
 
 - <b>Home Labs</b>
-  - [Active Directory Lab]
+  - [Active Directory Lab]()
 
 - <b>PowerShell</b>
-  - [JWipe (Disk Wiping Utility)]
-  - [Active Directory Bulk User Creation]
+  - [JWipe (Disk Wiping Utility)]()
+  - [Active Directory Bulk User Creation]()
 - <b>C# Projects (Cybersecurity Focused)</b>
-  - [Keylogger}
+  - [Keylogger}()
 - <b>Python</b>
   - [Mortgage Calculator](https://github.com/AustinCal/MortgageCalc)
-
-
+  - 
+- <b>Other Projects</b>
+  - [LA Dodgers SQL Database]()
+  - [Hospital Network - Two Sites]()
+  
 About Me:
 
 - 🔭 I’m currently working on graduating in May 2025 and Pursuing a Masters in Information Management in Fall 2025

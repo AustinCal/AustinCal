@@ -6,6 +6,7 @@
   - [Active Directory Lab]()
 
 - <b>PowerShell</b>
+  - [PowerShell Environtment Checker]()
   - [JWipe (Disk Wiping Utility)]()
   - [Active Directory Bulk User Creation]()
 - <b>C# Projects (Cybersecurity Focused)</b>

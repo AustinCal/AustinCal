@@ -3,15 +3,15 @@
 <h2>👨‍💻 SOC Analyst Projects:</h2>
 
 - <b>Home Labs</b>
-  - [Active Directory Lab](https://github.com/AustinCal)
+  - [Active Directory Lab]
 
 - <b>PowerShell</b>
   - [JWipe (Disk Wiping Utility)]
   - [Active Directory Bulk User Creation]
 - <b>C# Projects (Cybersecurity Focused)</b>
-  
+  - [Keylogger}
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Mortgage Calculator]
 
 
 About Me:

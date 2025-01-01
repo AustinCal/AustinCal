@@ -9,7 +9,7 @@
   - [JWipe (Disk Wiping Utility)]()
   - [Active Directory Bulk User Creation]()
 - <b>C# Projects (Cybersecurity Focused)</b>
-  - [Keylogger}()
+  - [Keylogger]()
 - <b>Python</b>
   - [Mortgage Calculator](https://github.com/AustinCal/MortgageCalc)
   - 

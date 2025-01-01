@@ -10,9 +10,12 @@
   - [Active Directory Bulk User Creation]()
 - <b>C# Projects (Cybersecurity Focused)</b>
   - [Keylogger]()
+
+ <h2>👨‍💻 Programming Projects:</h2>
+ 
 - <b>Python</b>
   - [Mortgage Calculator](https://github.com/AustinCal/MortgageCalc)
-  - 
+  
 - <b>Other Projects</b>
   - [LA Dodgers SQL Database]()
   - [Hospital Network - Two Sites]()

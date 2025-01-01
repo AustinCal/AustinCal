@@ -21,6 +21,12 @@
   - [LA Dodgers SQL Database]()
   - [Hospital Network - Two Sites]()
   
+<h2>🤳 Certifications</h2>
+<b>AZ 900 Cloud Fundamentals</b>
+
+<b>SC 900 Security, Compliance, and Identity (Upcoming)</b>
+
+
 About Me:
 
 - 🔭 I’m currently working on graduating in May 2025 and Pursuing a Masters in Information Management in Fall 2025

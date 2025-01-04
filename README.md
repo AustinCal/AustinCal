@@ -3,7 +3,7 @@
 <h2>👨‍💻 SOC Analyst Projects:</h2>
 
 - <b>Home Labs</b>
-  - [Active Directory Lab]()
+  - [Active Directory Lab](https://github.com/AustinCal/Active-Directory-Add-Users-via-PowerShell-/blob/main/README.md)
 
 - <b>PowerShell</b>
   - [PowerShell Environtment Checker]()

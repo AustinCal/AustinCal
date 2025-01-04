@@ -9,7 +9,7 @@
 - <b>PowerShell</b>
   - [PowerShell Environtment Checker]()
   - [Account Membership and Automated Group Membership Cloner]()
-  - [Active Directory Bulk User Creation]()
+  - [PowerShell Service Checker]()
 - <b>C# Projects (Cybersecurity Focused)</b>
   - [Keylogger]()
  

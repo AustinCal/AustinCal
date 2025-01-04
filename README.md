@@ -1,6 +1,6 @@
 <h1>Hi, I'm Austin! <br/><a href="https://github.com/AustinCal">Cybersecurity</a>, <a href="https://www.linkedin.com/in/austin-calloway-2b40581bb">Network Enginner Intern</a>
 
-<h2>👨‍💻 SOC Analyst Projects:</h2>
+<h2>👨‍💻 Security Engineer Projects:</h2>
 
 - <b>Home Labs</b>
   - [Active Directory Lab](https://github.com/AustinCal/Active-Directory-Add-Users-via-PowerShell-/blob/main/README.md)

@@ -4,7 +4,7 @@
 
 - <b>Home Labs</b>
   - [Active Directory Lab](https://github.com/AustinCal/Active-Directory-Add-Users-via-PowerShell-/blob/main/README.md)
-  - [Azure SOC HoneyNet]()
+  - [Azure SOC HoneyNet](https://github.com/AustinCal/Azure-SOC-Honeynet)
 
 - <b>PowerShell</b>
   - [PowerShell Environtment Checker]()

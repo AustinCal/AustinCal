@@ -19,7 +19,7 @@
   - [Mortgage Calculator](https://github.com/AustinCal/MortgageCalc)
   
 - <b>Other Projects</b>
-  - [LA Dodgers SQL Database]()
+  - [LA Dodgers SQL Database](https://github.com/AustinCal/LA-Dodgers-SQL-Database)
   - [Hospital Network - Two Sites]()
   
 <h2>🤳 Certifications</h2>

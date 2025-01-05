@@ -34,4 +34,4 @@ About Me:
 - 🌱 I’m currently learning Microsoft Azure and PowerShell programming so I can automate more tasks to make business processes run smoother 
 - 🤔 I’m looking for help with anything, I consider myself a sponge and any information is good information! I love to gain knowledge on any topics!
 - 📫 How to reach me: austin.calloway.ac@gmail.com
-- ⚡ Fun fact: I cannot bend my index finger on my right hand (:
+- ⚡ Fun fact: I cannot bend my index finger on my right hand (: and I am also a really good cook.

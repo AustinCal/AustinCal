@@ -10,7 +10,7 @@
   - [PowerShell Environtment Checker]()
   
 - <b>Java Projects</b>
-  - [Simple Calculator]()
+  - [Rock Paper Scissors]()
  
  <h2>👨‍💻 Programming Projects:</h2>
  

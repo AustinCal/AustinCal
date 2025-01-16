@@ -8,8 +8,7 @@
 
 - <b>PowerShell</b>
   - [PowerShell Environtment Checker]()
-  - [Account Membership and Automated Group Membership Cloner]()
-  - [PowerShell Service Checker]()
+  
 - <b>Java Projects</b>
   - [Simple Calculator]()
  

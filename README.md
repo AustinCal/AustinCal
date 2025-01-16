@@ -11,7 +11,7 @@
   - [Account Membership and Automated Group Membership Cloner]()
   - [PowerShell Service Checker]()
 - <b>Java Projects</b>
-  - [Keylogger]()
+  - [Simple Calculator]()
  
  <h2>👨‍💻 Programming Projects:</h2>
  

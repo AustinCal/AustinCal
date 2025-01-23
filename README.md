@@ -10,7 +10,7 @@
   - [PowerShell Environtment Checker]()
   
 - <b>Java Projects</b>
-  - [Rock Paper Scissors]()
+  - [Rock Paper Scissors (In progress)](https://github.com/AustinCal/Rock-Paper-Scissors/blob/main/Java%20Rock%20Paper%20Scissors.java)
  
  <h2>👨‍💻 Programming Projects:</h2>
  

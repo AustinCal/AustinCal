@@ -11,16 +11,14 @@
 
  
  <h2>👨‍💻 Programming Projects:</h2>
- 
-- <b>Python</b>
-  - [Mortgage Calculator](https://github.com/AustinCal/MortgageCalc)
-  - [USB KeyLogger - Educational Purposes!]()
- 
+
 - <b>Java Projects</b>
   - [Console Banking System (In progress)]()
   - [Rock Paper Scissors (In progress)](https://github.com/AustinCal/Rock-Paper-Scissors/blob/main/Java%20Rock%20Paper%20Scissors.java)
  
-
+- <b>Python</b>
+  - [Mortgage Calculator](https://github.com/AustinCal/MortgageCalc)
+ 
 - <b>Other Projects</b>
   - [LA Dodgers SQL Database](https://github.com/AustinCal/LA-Dodgers-SQL-Database)
   - [Hospital Network - Two Sites]()

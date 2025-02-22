@@ -21,7 +21,7 @@
 
 - <b>Other Projects</b>
   - [LA Dodgers SQL Database](https://github.com/AustinCal/LA-Dodgers-SQL-Database)
-  - [Hospital Network - Two Sites]()
+  - [Hospital Network - Two Sites](https://github.com/AustinCal/Hospital-Network-2-Sites/blob/main/Screenshot%202025-02-22%20103432.png)
 
 <h2>👨‍💻 Misc Projects:</h2>
 

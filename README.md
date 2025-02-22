@@ -27,7 +27,7 @@
 
 - <b>Blog Post by Austin Calloway</b>
   - [DeepDive into VPNs](https://github.com/AustinCal/Deep-Dive-into-VPNs)
-  - [Grok 3 Elon Musk AI Model](https://github.com/AustinCal/Rock-Paper-Scissors/blob/main/Java%20Rock%20Paper%20Scissors.java)
+  - [Grok 3 Elon Musk AI Model](https://github.com/AustinCal/Grok-3-Elon-Musk-AI-Model)
 
 
 <h2>🤳 Certifications</h2>

@@ -7,7 +7,7 @@
   - [Azure SOC HoneyNet](https://github.com/AustinCal/Azure-SOC-Honeynet)
 
 - <b>AWS Cloud</b>
-  - [Analyse Netflix Data with AWS Quicksight]()  
+  - [Analyze Netflix Data with AWS Quicksight](https://github.com/AustinCal/Analyze-Netflix-Data)  
 
  
  <h2>👨‍💻 Programming Projects:</h2>

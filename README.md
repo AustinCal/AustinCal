@@ -1,4 +1,4 @@
-<h1>Hi, I'm Austin! <br/><a href="https://github.com/AustinCal">Graduate Spring 2025</a>, <a href="https://www.linkedin.com/in/austin-calloway-2b40581bb">Network Engineer Intern</a>
+<h1>Hi, I'm Austin! <br/><a href="https://github.com/AustinCal">Graduate Spring 2025</a>, <a href="https://www.linkedin.com/in/austin-calloway-2b40581bb">Intern</a>
 
 <h2>👨‍💻 Cloud Projects:</h2>
 
